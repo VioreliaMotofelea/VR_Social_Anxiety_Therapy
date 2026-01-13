@@ -25,8 +25,10 @@ bld/
 
 [Ll]ibrary/
 [Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
 UserSettings/
 
 .vscode/
@@ -38,6 +40,8 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
+
+*.meta
 
 Assets/AssetStoreTools*
 
