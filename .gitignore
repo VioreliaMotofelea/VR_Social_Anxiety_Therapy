@@ -23,6 +23,24 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+.vscode/
+.vs/
+*.csproj
+*.sln
+
+*.user
+*.pidb
+*.booproj
+*.svd
+
+Assets/AssetStoreTools*
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
